@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a hobby developer and like to make full stack projects with GO, ReactJS and other stuff.<br>I'm currently studying the languages and to manage projects with Git. Nothing to special<br>I'm probably going to a Technical upper-level secondary school in one year and learn some advanced topics.<br>
+I'm a hobby developer and like to make full stack projects with GO, ReactJS and other stuff.<br>I'm currently studying the languages and to manage projects with Git. Nothing to special<br>I'm probably going to a Technical upper-level secondary school in one year and learn some advanced topics of netwerking.<br>
 
 
 # 💻 Tech Stack:
